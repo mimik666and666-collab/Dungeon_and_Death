@@ -1,0 +1,11 @@
+﻿  Dungeon_and_Death.cpp
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(26,11): error C3646: nextScene: неизвестный спецификатор переопределения
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(26,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(55,5): error C2535: Core::Core(void): функция-член уже определена или объявлена
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(49,5):
+   см. объявление "Core::Core"
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(56,6): error C2535: Core::~Core(void): функция-член уже определена или объявлена
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(51,6):
+   см. объявление "Core::~Core"
+  
