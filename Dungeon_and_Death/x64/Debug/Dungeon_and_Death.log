@@ -1,11 +1,95 @@
-﻿  Dungeon_and_Death.cpp
-C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(52,11): error C3646: nextScene: неизвестный спецификатор переопределения
-C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(52,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(86,5): error C2535: Core::Core(void): функция-член уже определена или объявлена
-  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(80,5):
-   см. объявление "Core::Core"
+﻿  Character.cpp
+  Choicing.cpp
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(7,12): error C3646: Name: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Character.cpp")
   
-C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(87,6): error C2535: Core::~Core(void): функция-член уже определена или объявлена
-  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(82,6):
-   см. объявление "Core::~Core"
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(7,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Character.cpp")
   
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(10,12): error C3646: Color: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Character.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(10,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Character.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(11,12): error C3646: Portrait: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Character.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(11,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Character.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(17,24): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "Character.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(18,15): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "Character.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(18,5): error C2535: Character::Character(void): функция-член уже определена или объявлена
+  (компиляция исходного файла "Character.cpp")
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(14,5):
+   см. объявление "Character::Character"
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.cpp(6,1): error C2011: Character: переопределение типа "class"
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(4,7):
+   см. объявление "Character"
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Choicing.h(9,8): error C3646: text: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Choicing.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Choicing.h(9,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Choicing.cpp")
+  
+  Dungeon_and_Death.cpp
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\SubFunctional.h(7,12): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\SubFunctional.h(8,12): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(7,12): error C3646: Name: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(7,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(10,12): error C3646: Color: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(10,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(11,12): error C3646: Portrait: неизвестный спецификатор переопределения
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(11,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(17,24): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(18,15): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(18,5): error C2535: Character::Character(void): функция-член уже определена или объявлена
+  (компиляция исходного файла "Dungeon_and_Death.cpp")
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Character.h(14,5):
+   см. объявление "Character::Character"
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\Dungeon_and_Death.cpp(31,13): warning C4129:  : неизвестная escape-последовательность
+  IIScene.cpp
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\IIScene.cpp(3,1): error C2011: IIScene: переопределение типа "class"
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\IIScene.h(2,7):
+   см. объявление "IIScene"
+  
+  SubFunctional.cpp
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\SubFunctional.h(7,12): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "SubFunctional.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\SubFunctional.h(8,12): error C2061: синтаксическая ошибка: идентификатор "string"
+  (компиляция исходного файла "SubFunctional.cpp")
+  
+C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\SubFunctional.cpp(7,1): error C2011: SubFunctional: переопределение типа "class"
+  C:\Users\РПО1125\Documents\GitHub\Dungeon_and_Death\Dungeon_and_Death\SubFunctional.h(3,7):
+   см. объявление "SubFunctional"
+  
+  Создание кода...
